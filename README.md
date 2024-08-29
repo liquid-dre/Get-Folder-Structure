@@ -38,6 +38,7 @@ Open the main.py file and replace the root_folder variable with the path to the 
    if __name__ == "__main__":
     root_folder = r"C:\path\to\your\folder"  # Replace with your folder path
     get_file_structure(root_folder)
+   ```
 
 2. **Run the script:**
 
@@ -45,6 +46,7 @@ Execute the script using Python:
 
    ```bash
    python main.py
+   ```
 
 3. **View the output:**
 
@@ -61,6 +63,7 @@ Example output:
     │   ├── file3.txt
     │   └── file4.txt
     └── file5.txt
+   ```
 
 ## Customization
 
